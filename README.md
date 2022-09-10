@@ -1,4 +1,5 @@
-Hi there 👋
+Hi there! Welcome to my page. 👋
+I'm Daniel, Front End developer from Miami, Florida US.
 
 - 🔭 I’m currently working on Shopify Projects
 - 🌱 I’m currently learning React
